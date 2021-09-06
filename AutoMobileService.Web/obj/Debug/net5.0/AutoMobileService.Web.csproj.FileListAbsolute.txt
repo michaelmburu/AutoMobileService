@@ -80,3 +80,4 @@ C:\Users\mimburu\Documents\.NET\AutoMobileService\AutoMobileService.Web\obj\Debu
 C:\Users\mimburu\Documents\.NET\AutoMobileService\AutoMobileService.Web\obj\Debug\net5.0\ref\AutoMobileService.Web.dll
 C:\Users\mimburu\Documents\.NET\AutoMobileService\AutoMobileService.Web\obj\Debug\net5.0\AutoMobileService.Web.pdb
 C:\Users\mimburu\Documents\.NET\AutoMobileService\AutoMobileService.Web\obj\Debug\net5.0\AutoMobileService.Web.genruntimeconfig.cache
+C:\Users\mimburu\Documents\.NET\AutoMobileService\AutoMobileService.Web\obj\Debug\net5.0\Razor\Views\Shared\_MasterLayout.cshtml.g.cs
